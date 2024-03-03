@@ -1,0 +1,59 @@
+.board {
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-shadow: 0px 0px 10px 3px #9B9FFF; 
+    box-shadow: 0px 0px 10px 3px #9B9FFF;
+}
+
+.board > div {
+    flex: 1 0 7%;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #9B9FFF,
+      0 0 82px #9B9FFF,
+      0 0 92px #9B9FFF,
+      0 0 102px #9B9FFF,
+      0 0 151px #9B9FFF;
+}
+
+.game-info {
+    margin: auto;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    letter-spacing: 1px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: .8rem 1.3rem;
+    margin: 1rem;
+    background-color: transparent;
+    color: #6769a8;
+    text-transform: uppercase;
+    border: none;
+    -webkit-box-shadow: 0px 0px 5px 1px #9B9FFF; 
+    box-shadow: 0px 0px 5px 1px #9B9FFF;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #232323;
+}
