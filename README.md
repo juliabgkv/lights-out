@@ -7,4 +7,3 @@ The game consists of a 5 by 5 grid of lights. When the game starts, a random num
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/juliabgkv/lights-out/main/src/assets/Lights_Out_Screenshot.png)
-
