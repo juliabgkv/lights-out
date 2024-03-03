@@ -6,5 +6,5 @@ The game consists of a 5 by 5 grid of lights. When the game starts, a random num
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/juliabgkv/react-practice/main/lights-out/src/assets/Lights_Out_Screenshot.png?token=GHSAT0AAAAAACN5QH3BIG7Y7C7FZYSIORC6ZOM2UFA)
+![App Screenshot](https://raw.githubusercontent.com/juliabgkv/lights-out/main/src/assets/Lights_Out_Screenshot.png)
 
